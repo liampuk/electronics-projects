@@ -1,12 +1,12 @@
 # Screen Printing/PCB fabrication
 
-## Vise design
+## Vice design
 
-This simple design for a vise functions as both a screen printing station, and a general vise (for drilling enclosures, etc.)
+This simple design for a vice functions as both a screen printing station, and a general vice (for drilling enclosures, etc.)
 
-The basic design is to use 2 50x75mm timber blocks as each part of the vise, and lock them together using 2 threaded rods with wing nuts.
+The basic design is to use 2 50x75mm timber blocks as each part of the vice, and lock them together using 2 threaded rods with wing nuts.
 
-![vise design](https://i.imgur.com/Yf7Aacv.png)
+![vice design](https://i.imgur.com/Yf7Aacv.png)
 
 This can also be used for screen printing pedals:
 
